@@ -16,6 +16,7 @@ FilmDataAnalysis/
 ├── python/               # Python 可视化模块及结果图（含分类子文件夹）
 │   ├── S1~S8/            # 不同主题的可视化脚本（如 S1 历史趋势）
 │   └── Fxx.png           # 可视化结果图像
+│   ├── doc.pdf           # 文档         
 ```
 
 ---
