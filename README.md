@@ -12,11 +12,13 @@
 
 ```
 FilmDataAnalysis/
-├── FilmDataAnalysis/     # Scala 实现的各阶段数据处理与分析文件
+├── FilmDataAnalysis/     # Scala 实现的各阶段数据处理与分析文件（Sxx_xx.scala）
 ├── python/               # Python 可视化模块及结果图（含分类子文件夹）
-│   ├── S1~S8/            # 不同主题的可视化脚本（如 S1 历史趋势）
-│   └── Fxx.png           # 可视化结果图像
-│   ├── doc.pdf           # 文档         
+│   ├── S1~S8/            # 不同主题的可视化脚本（如 S1 历史趋势，S2 时间分析...）
+│   └── Fxx.png           # 对应的可视化结果图
+├── doc.pdf               # 项目报告或说明文档（如实训报告、论文等）
+└── README.md             # 项目总说明
+      
 ```
 
 ---
